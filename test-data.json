@@ -1,0 +1,18 @@
+{
+  "NAME": "Tamás Nagy",
+  "JOBTITEL": "C++ Embedded Software Engineer",
+  "SPRACHEN": [
+    {
+      "SPRACHE": "Ungarisch",
+      "NIVEAU": "Muttersprache"
+    },
+    {
+      "SPRACHE": "Englisch",
+      "NIVEAU": "Fließend"
+    },
+    {
+      "SPRACHE": "Deutsch",
+      "NIVEAU": "Fließend"
+    }
+  ]
+}
