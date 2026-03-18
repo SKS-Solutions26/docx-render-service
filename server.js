@@ -58,7 +58,7 @@ app.post("/render-docx", upload.single("template"), (req, res) => {
   }
 });
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
   console.log(`Render-Service läuft auf http://localhost:${PORT}`);
